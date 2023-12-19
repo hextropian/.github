@@ -1,4 +1,4 @@
 # Hextropian Systems
 
-This GitHub organization belongs to Hextropian Systems, LLC, out of WA State.
-See the [web site](https://hextropian.systems) for any additional information.
+This GitHub organization belongs to Hextropian Systems, LLC, a technology company in WA State.
+Please refer to the [web site](https://hextropian.systems) for any additional information, including how to contact us. Thank you.
